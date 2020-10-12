@@ -1,0 +1,13 @@
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.csprojAssemblyReference.cache
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.AssemblyInfoInputs.cache
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.AssemblyInfo.cs
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.csproj.CoreCompileInputs.cache
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\bin\Debug\netcoreapp3.1\slump.exe
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\bin\Debug\netcoreapp3.1\slump.deps.json
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\bin\Debug\netcoreapp3.1\slump.runtimeconfig.json
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\bin\Debug\netcoreapp3.1\slump.runtimeconfig.dev.json
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\bin\Debug\netcoreapp3.1\slump.dll
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\bin\Debug\netcoreapp3.1\slump.pdb
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.dll
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.pdb
+C:\Users\ardaburc.arslanazi\Documents\Programmering\slump\slump\obj\Debug\netcoreapp3.1\slump.genruntimeconfig.cache
